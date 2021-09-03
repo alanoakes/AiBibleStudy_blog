@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/alanoakes/aibiblestudy.github.io.git
+	branch = main
+[submodule "aibiblestudy/public"]
+	path = aibiblestudy/public
+	url = https://github.com/alanoakes/aibiblestudy.github.io.git
+	branch = main

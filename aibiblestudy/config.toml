@@ -1,0 +1,4 @@
+baseURL = "https://alanoakes.github.io/aibiblestudy/"
+languageCode = "en-us"
+title = "The AI Bible Study Blog"
+theme="newsroom"
